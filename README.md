@@ -137,7 +137,7 @@ python load_bensarchumor.py \
 
 ## Known Limitations
 
-- **Episode coverage.** *Ebar Proloy* (2023) has 10 released episodes; only 7
+- **Episode coverage.** *Ebar Proloy* (2023) season 2 has 8 released episodes; only 7
   are annotated in this release. [State whether this is the final scope or
   annotation is ongoing.]
 - **Inter-annotator agreement** across the five-person annotation team has not
