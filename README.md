@@ -8,6 +8,7 @@ sources centered on the same underlying narrative — a social-justice drama
 based on real events — and is, to our knowledge, the first multimodal sarcasm
 resource for Bangla-English code-mixing, a language pair with no prior
 dedicated dataset in this line of work.
+<img width="794" height="351" alt="NEUGC10-DET (1)" src="https://github.com/user-attachments/assets/776926aa-2b74-43af-9b77-7fb251d2b461" />
 
 This dataset accompanies the paper *"COMICNET for Multimodal Sarcasm
 Detection from Code-Mixed Language"*. If you use BenSarcHumor, please cite
