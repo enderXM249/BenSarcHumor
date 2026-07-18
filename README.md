@@ -8,6 +8,7 @@ sources centered on the same underlying narrative — a social-justice drama
 based on real events — and is, to our knowledge, the first multimodal sarcasm
 resource for Bangla-English code-mixing, a language pair with no prior
 dedicated dataset in this line of work.
+
 <img width="794" height="351" alt="NEUGC10-DET (1)" src="https://github.com/user-attachments/assets/776926aa-2b74-43af-9b77-7fb251d2b461" />
 
 This dataset accompanies the paper *"COMICNET for Multimodal Sarcasm
@@ -110,6 +111,20 @@ If you extract your own audio features (MFCC, Mel-spectrogram, prosodic
 statistics) from independently sourced copies of the source material, the
 `Audio_Clip` filenames and `Start_Time`/`End_Time` columns are sufficient to
 align them with the labeled text.
+
+# Full Dataset, Model Results & Code
+ 
+This repository hosts the labeled text, timestamps, and the reference loader
+script. The **full dataset (including raw audio), trained model checkpoints,
+experiment result tables, and training/experiment code** are available via
+Google Drive:
+ 
+**[BenSarcHumor — Full Data, Results & Code](https://drive.google.com/drive/u/0/folders/1IHZmY-ObBsefwNzFZ2yhroMxyg5vXOJd)**
+ 
+Access is provided for research use. If you plan to use the raw audio or
+model checkpoints in published work, please cite the paper (see
+[Citation](#citation)) and reach out via the contact below if you have
+questions about scope of use.
 
 ## Collection & Annotation
 
